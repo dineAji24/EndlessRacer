@@ -1,0 +1,12 @@
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+
+#folders#
+#########
+
+node_modules/
+logs/
